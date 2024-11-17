@@ -1,0 +1,130 @@
+    1  man ls
+    2  help ls
+    3  help cd
+    4  dir
+    5  clear
+    6  dir
+    7  cd music
+    8  dir
+    9  cd ..
+   10  cd ..
+   11  cd ..
+   12  cd ..
+   13  dir
+   14  cd downloads
+   15  cd Downloads
+   16  cd appdata
+   17  cd Desktop
+   18  clear
+   19  dir
+   20  cd ..
+   21  cd windows
+   22  git config --global user.name "Samojlenko Vladimir"
+   23  git config --global user.email 0754018@gmail.com
+   24  git clone https://github.com/SamoVlad/HW_10.git
+   25  git clone https://github.com/SamoVlad/HW_10.git
+   26  dir
+   27  cd Desktop
+   28  dir
+   29  cd ~
+   30  pdw
+   31  cd Desktop
+   32  pwd
+   33  cd ap
+   34  cd a
+   35  dir
+   36  cd r
+   37  cd R
+   38  cd W
+   39  cd users
+   40  pwd
+   41  cd USB\ Disk\ Storage\ Format\ Tool.lnk cd disk
+   42  pwd
+   43  dir
+   44  mkdir Lesson
+   45  cd Lesson
+   46  dir
+   47  touch empty.txt
+   48  dir
+   49  nano empty.txt
+   50  cut empty.txt
+   51  cat empty.txt
+   52  dir
+   53  cp /Desktop/Lesson/empty.txt /Desktop
+   54  cp /Desktop/Lesson/empty.txt Desktop
+   55  dir
+   56  cd ..
+   57  dir
+   58  ping 8888
+   59  ping 888
+   60  ping google.com
+   61  ping 888888
+   62  ping 88888
+   63  ping 88
+   64  ping 88888888
+   65  ping 888
+   66  ping google.com
+   67  data
+   68  date
+   69  system profile
+   70  system_profiler
+   71  system profiler
+   72  system_profiler
+   73  system
+   74  system_profile
+   75  system profile
+   76  clear
+   77  df-h
+   78  df -h
+   79  ifconfig
+   80  if_config
+   81  config
+   82  ipconfig
+   83  whoami
+   84  git clone https://github.com/SamoVlad/HW_10.git
+   85  git config --global user.name "Vladimir Samojlenko"
+   86  git config --global user.email 0754018@gmail.com
+   87  git clone https://github.com/SamoVlad/HW_10.git
+   88  git config --global user.name "Samojlenko Vladimir"
+   89  git config --global user.email 0754018@gmail.com
+   90  git clone https://github.com/SamoVlad/HW_10.git
+   91  git status
+   92  cd HW_10/
+   93  git status
+   94  touch text_ignore.txt
+   95  git add text_ignore.txt
+   96  git status
+   97  git commit -m "New file created"
+   98  git status
+   99  git status
+  100  touch main_test.txt
+  101  git status
+  102  git add main_test.txt
+  103  git status
+  104  git commit -m "New second file created"
+  105  git status
+  106  пше дщп
+  107  git log
+  108  git branch
+  109  git checkout -b develop
+  110  git branch
+  111  touch develop_test.txt
+  112  git add develop_test.txt
+  113  git commit -m "New file created in develop"
+  114  git status
+  115  nano develop_test.txt
+  116  git status
+  117  git add develop_test.txt
+  118  git commit -m "New text in develop"
+  119  git status
+  120  checkout main
+  121  git checkout main
+  122  git status
+  123  git branch
+  124  git merge develop
+  125  git log
+  126  git status
+  127  git log
+  128  git branch
+  129  command_list.csv
+  130  history > command_list.csv
